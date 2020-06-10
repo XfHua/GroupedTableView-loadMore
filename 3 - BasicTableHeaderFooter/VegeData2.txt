@@ -1,0 +1,25 @@
+Vegetables,Beet greens
+Vegetables,Bitterleaf
+Vegetables,Bok choy
+Vegetables,Broccoli Rabe
+Vegetables,Brussels sprout
+Fruits,Avocado
+Fruits,Bell pepper
+Flower Buds,Squash blossoms
+Legumes,American groundnut
+Legumes,Azuki bean
+Legumes,Black-eyed pea
+Legumes,Chickpea
+Legumes,Common bean
+Legumes,Drumstick
+Legumes,Urad bean
+Legumes,Velvet bean
+Legumes,Winged bean
+Legumes,Yardlong bean
+Bulbs,Asparagus
+Bulbs,Cardoon
+Bulbs,Celeriac
+Bulbs,Celery
+Tubers,Ahipa
+Tubers,Arracacha
+Tubers,Bamboo shoot
